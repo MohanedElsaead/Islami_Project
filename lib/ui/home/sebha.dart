@@ -19,9 +19,6 @@ class _SebhaState extends State<Sebha> {
 
     var width=MediaQuery.of(context).size.width;
     var height=MediaQuery.of(context).size.height;
-
-
-// TODO: implement build
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
