@@ -74,6 +74,7 @@ flutter:
      - assets/Hadeeth/
      - assets/materials/
      - assets/sebha/
+     - assets/time/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
