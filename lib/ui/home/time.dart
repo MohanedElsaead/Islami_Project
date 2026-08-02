@@ -16,7 +16,7 @@ class Time extends StatelessWidget {
           spacing: height*0.01,
           children: [
             Container(
-              decoration: BoxDecoration(color: Colors.yellow,borderRadius: BorderRadius.circular(40),image:DecorationImage(image: AssetImage("assets/time/container.png",),
+              decoration: BoxDecoration(borderRadius: BorderRadius.circular(40),image:DecorationImage(image: AssetImage("assets/time/container.png",),
               )),
               width: 390,
               height: 301,
