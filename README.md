@@ -2,6 +2,10 @@
 
 A Flutter mobile app that provides a clean Islamic experience with Quran browsing, Hadith cards, Sebha (Tasbih) counter, Radio UI, and a Time tab UI.
 
+## Demo Video Link
+
+- https://drive.google.com/file/d/1xxcXV9KbTZcOltNkXRdvwx4k-dnCoQWA/view?usp=sharing
+
 ## Features
 
 - Intro walkthrough using Introduction Screen
